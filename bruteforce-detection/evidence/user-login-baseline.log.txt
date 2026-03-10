@@ -1,0 +1,6 @@
+Feb 18 03:41:12 VPN-GW auth_success user=j.silva src_ip=192.168.14.22 auth_method=VPN
+
+Previous login patterns (last 30 days):
+Jan 21 02:58:03 VPN-GW auth_success user=j.silva src_ip=192.168.14.22
+Jan 28 03:12:41 VPN-GW auth_success user=j.silva src_ip=192.168.14.22
+Feb 03 04:07:18 VPN-GW auth_success user=j.silva src_ip=192.168.14.22

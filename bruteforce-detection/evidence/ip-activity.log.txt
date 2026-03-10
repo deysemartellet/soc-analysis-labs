@@ -1,0 +1,6 @@
+Feb 18 02:51:12 VPN-GW auth_failed user=m.rodrigues src_ip=185.199.110.23 reason=invalid_credentials
+Feb 18 02:51:21 VPN-GW auth_failed user=m.rodrigues src_ip=185.199.110.23 reason=invalid_credentials
+Feb 18 02:51:30 VPN-GW auth_failed user=m.rodrigues src_ip=185.199.110.23 reason=invalid_credentials
+
+Feb 18 02:52:05 VPN-GW auth_failed user=a.santos src_ip=185.199.110.23 reason=invalid_credentials
+Feb 18 02:52:14 VPN-GW auth_failed user=a.santos src_ip=185.199.110.23 reason=invalid_credentials
