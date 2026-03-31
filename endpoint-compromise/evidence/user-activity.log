@@ -1,0 +1,6 @@
+14:17:41 - User created: backup_admin
+14:17:42 - Added to Administrators group
+14:18:10 - Successful login: backup_admin
+14:18:22 - Payload downloaded
+14:18:45 - payload.exe executed
+14:20:12 - Scheduled task created (WindowsUpdateCheck)
